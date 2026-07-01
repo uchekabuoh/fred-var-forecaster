@@ -1,1 +1,1 @@
-# macro-series
+# fred-var-forecaster
